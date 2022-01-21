@@ -19,11 +19,11 @@ export const tourData = [
     },
     {
         id: 3,
-        city: "london",
-        img: "./img/london.jpeg",
-        name: "london royal palace tour",
+        city: "Adams, Tennessee",
+        img: "./img/bell_witch_farm.jpeg",
+        name: "Bell Witch Farm",
         info: 
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry." 
+        "It's the age-old tale of neighbors at war: a woman named Kate Batts believed her neighbor, John Bell, cheated her out of some land. Lying on her deathbed in the early 19th century, she swore she would haunt him forever. The result was mayhem for the Bell family, which said they experienced physical attacks and heard chains dragged across floors and noises in the walls. They even claimed to see odd-looking animals on their farm, like a dog with a rabbit's head. Although the property's cave and reconstructed cabin are temporarily closed, they can sometimes be toured, a particularly popular activity during the annual Bell Witch Festival." 
     },
     {
         //Thin Thazin commented

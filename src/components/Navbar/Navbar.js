@@ -1,5 +1,4 @@
 import React from "react";
-import logo from '../../logo.svg';
 import "./navbar.scss";
 import { Outlet, Link } from "react-router-dom";
 

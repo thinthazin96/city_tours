@@ -19,6 +19,8 @@
 // Thin added
 body{
     background-image: url('../../../public/img/haunted3.jpeg');
+    background-attachment: fixed;
+   background-size: cover;
 }
 
 @media screen and (min-width: 768px) {
