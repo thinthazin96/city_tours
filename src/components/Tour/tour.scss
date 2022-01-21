@@ -1,13 +1,24 @@
 @import "../../index.scss";
 
 .tour {
-    background: $mainGrey;
+    // background: $mainGrey;
     margin: 2rem 0;
+    border-radius: 30px;
+    // Thin added
+    background-color: #F47340;
+    
+
     img {
         width: 100%;
         display: block;
         min-height: 13rem;
+        border-radius: 30px
+        ;
     }
+}
+// Thin added
+body{
+    background-image: url('../../../public/img/haunted3.jpeg');
 }
 
 @media screen and (min-width: 768px) {
