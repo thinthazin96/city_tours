@@ -82,6 +82,8 @@ h1 {                                     /* Sets the font weight, font size, fon
     border: solid #fff 1px;
     margin-top: 25px;
     opacity: 0.7;
+	/* adding by stephania */
+	text-decoration: none;
 }
 
 .btn:hover {
