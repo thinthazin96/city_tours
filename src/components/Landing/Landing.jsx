@@ -9,14 +9,14 @@ I had asistance from the following videos for adding the video on to the backkgr
 
 const Landing = () =>  {
     return( <div>
-    <section className="landing">  
-        <div className="video-container"> 
-            <video src = {vid} autoPlay= {true} muted loop></video>  
+    <section className="landing">
+        <div className="video-container">
+            <video src = {vid} autoPlay= {true} muted loop></video>
         </div>
         <div className="content">
             <h1>HAUNTED AMERICA</h1>
             <h3></h3>
-            <a href="#tourlist" className="btn">Get Spooked</a>
+            <a href="/About" className="btn">Get Spooked</a>
         </div>
     </section>
   </div>)
@@ -25,4 +25,4 @@ const Landing = () =>  {
 
 
 
-  
+
