@@ -76,18 +76,19 @@ export const tourData = [
         "Waverly Hills Sanatorium started off as a one-room schoolhouse in the late 1800s. The Board of Tuberculosis Hospital later purchased the land and built the sanatorium, which opened in 1910 as a small quarantine for tuberculosis patients. The large building that now sits abandoned was built in 1926 in response to the need for a larger facility; the sanatorium could house over 400 patients."
     },
     {
+        //Thin Thazin Commented
         id: 10,
-        city: "Yankee Stadium",
-        img: "./img/yankeestadium.jpg",
-        name: "Yankee Stadium",
+        city: "Massachusetts",
+        img: "./img/mudhouse.jpeg",
+        name: "SK Pierce House",
         info:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+        "SK Pierce Victorian is one of the state's eeriest. The original occupant, Sylvestor Pierce, had just started making his fortune in the furniture business when he built this home for himself, his son, and his wife, Susan. As a man about town, he hosted many notable people in his 7,000 square foot home throughout the years, including President Calvin Coolidge, Bette Davis, and Norman Rockwell. Only a week after moving into the home, Susan fell ill and passed away from a mysterious bacterial disease. A year later, he remarried Ellen, a woman thirty years his junior, and had two more children. Years later, when both Sylvester and Ellen had passed away, his sons embarked on a fiery feud about the property as well as the furniture company, but the Great Depression swept in and made their choice easier since the company basically went bankrupt.The youngest son, Edward, was given control of the home when he turned it into a boarding house. It became a hotspot for illicit activities (including the murders and sudden, tragic deaths of several occupants) according to local lore. As a result of these violent ends, guests have reported every kind of haunting imaginable, from visions of apparitions to flying objects, disembodied sounds, pressure, temperature drops, and more."
     },
     {
         //Thin Thazin commented
         id: 11,
         city: "Mansfield, Ohio",
-        img: "./img/Ohio.jpeg",
+        img: "./img/sk.jpeg",
         name: "Ohio State Reformatory",
         info:
         "Opened in 1896, the Ohio State Reformatory is famous for its Gothic facade and ominous six-story cell block. But its greatest claim to fame is when it served as the filming location for The Shawshank Redemption, though the prison was shrouded in terror long before Red and Andy holed up there. The reformatory closed in 1990 due to overcrowding and inhumane conditions, but not before more than 200 people (including two guards) died in the building. Legend says that the ghosts of several former inmates still roam the halls, as well as an old guard who jabs people with his nightstick. There are various ways for visitors to experience the hauntings first-hand, from two-hour guided tours to private paranormal investigations."
