@@ -33,13 +33,14 @@ export const tourData = [
         info: 
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry." 
     },
+    // Anwar Jahid
     {
         id: 5,
-        city: "Brooklyn Bridge",
-        img: "./img/bkbridge.jpg",
-        name: "Brooklyn Bridge",
+        city: "Connecticut",
+        img: "./img/Light_House.jpeg",
+        name: "New London Ledge Lighthouse",
         info: 
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry." 
+        "The former residence of a number of lighthouse keepers, this home has been featured on several ghost-hunting shows. There seems to be only one spirit here, named 'Ernie' —but he's got a very strong presence. He likes to turn televisions off and on, take sheets off beds, and generally cause a ruckus with knocking. If you prefer your haunts on dry land, make sure to visit Connecticut's ghost town." 
     },
     {
         id: 6,
