@@ -66,12 +66,13 @@ export const tourData = [
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry." 
     },
     {
+        // Seth Khan
         id: 9,
-        city: "Yankee Stadium",
-        img: "./img/yankeestadium.jpg",
-        name: "Yankee Stadium",
+        city: "Louisville, KY",
+        img: "./img/waverly.jpg",
+        name: "Waverly Hills Sanatorium",
         info: 
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry." 
+        "Waverly Hills Sanatorium started off as a one-room schoolhouse in the late 1800s. The Board of Tuberculosis Hospital later purchased the land and built the sanatorium, which opened in 1910 as a small quarantine for tuberculosis patients. The large building that now sits abandoned was built in 1926 in response to the need for a larger facility; the sanatorium could house over 400 patients." 
     },
     {
         id: 10,
