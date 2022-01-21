@@ -44,7 +44,7 @@ export const tourData = [
     {
         id: 6,
         city: "Yankee Stadium",
-        img: "./img/yankeestadium.jpg",
+        img: "./img/.jpg",
         name: "Yankee Stadium",
         info: 
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry." 
@@ -57,13 +57,13 @@ export const tourData = [
         info: 
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry." 
     },
-    {
+    {   //section by stephania Hoyos
         id: 8,
-        city: "Yankee Stadium",
-        img: "./img/yankeestadium.jpg",
-        name: "Yankee Stadium",
+        city: "Pennsylvania",
+        img: "./img/penitentiary.jpeg",
+        name: "Eastern State Penitentiary",
         info: 
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry." 
+        "The 142-year-old building was once known for its horrifying punishments, including locking prisoners in The Hole. It's also notorious for its reports of supernatural activities. The prison, which closed in 1971, offers day and night tours, and access for paranormal investigations." 
     },
     {
         id: 9,
