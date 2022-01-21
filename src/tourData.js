@@ -26,12 +26,13 @@ export const tourData = [
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry." 
     },
     {
+        //Thin Thazin commented
         id: 4,
-        city: "tokyo",
-        img: "./img/tokyo.jpeg",
-        name: "tokyo sushi tour",
+        city: "San Diego, California",
+        img: "./img/whaley-house.jpeg",
+        name: "Whaley House",
         info: 
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry." 
+        "Thomas Whaley built this family estate in 1857 in San Diego, on the former site of the city's first public gallows. Shortly after he moved in, he reported hearing the heavy footsteps of Yankee Jim Robinson, a drifter and thief who was hanged on the site four years before the house was built. Whaley's family history ended up being filled with tragic deaths and suicides, many of which occurred inside the home itself. Some of the family members reportedly still haunt the landmark, often accompanied by cigar smoke and the smell of heavy perfume." 
     },
     // Anwar Jahid
     {
@@ -70,7 +71,7 @@ export const tourData = [
         // Seth Khan
         id: 9,
         city: "Louisville, KY",
-        img: "./img/waverly.jpg",
+        img: "./img/waverly.jpeg",
         name: "Waverly Hills Sanatorium",
         info: 
         "Waverly Hills Sanatorium started off as a one-room schoolhouse in the late 1800s. The Board of Tuberculosis Hospital later purchased the land and built the sanatorium, which opened in 1910 as a small quarantine for tuberculosis patients. The large building that now sits abandoned was built in 1926 in response to the need for a larger facility; the sanatorium could house over 400 patients." 
@@ -84,12 +85,13 @@ export const tourData = [
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry." 
     },
     {
+        //Thin Thazin commented
         id: 11,
-        city: "Yankee Stadium",
-        img: "./img/yankeestadium.jpg",
-        name: "Yankee Stadium",
+        city: "Mansfield, Ohio",
+        img: "./img/Ohio.jpeg",
+        name: "Ohio State Reformatory",
         info: 
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry." 
+        "Opened in 1896, the Ohio State Reformatory is famous for its Gothic facade and ominous six-story cell block. But its greatest claim to fame is when it served as the filming location for The Shawshank Redemption, though the prison was shrouded in terror long before Red and Andy holed up there. The reformatory closed in 1990 due to overcrowding and inhumane conditions, but not before more than 200 people (including two guards) died in the building. Legend says that the ghosts of several former inmates still roam the halls, as well as an old guard who jabs people with his nightstick. There are various ways for visitors to experience the hauntings first-hand, from two-hour guided tours to private paranormal investigations." 
     }, 
     
     // Chelsea
