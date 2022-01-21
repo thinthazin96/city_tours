@@ -24,6 +24,7 @@ class App extends Component {
             <Route path="TourList" element={<TourList />} />
           </Route>
         </Routes>
+        <Footer />
       </BrowserRouter>
     );
   }
