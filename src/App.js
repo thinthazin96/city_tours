@@ -19,7 +19,7 @@ class App extends Component {
       <BrowserRouter>
         <Routes>
           <Route path="/" element ={<Navbar />}>
-            <Route path="Landing" element={<Landing />} />
+            <Route path="/" element={<Landing />} />
             <Route path="About" element={<About />} />
             <Route path="TourList" element={<TourList />} />
           </Route>
