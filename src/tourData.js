@@ -1,11 +1,12 @@
 export const tourData = [
     {
+        // Thin Thazin commented
         id: 1,
-        city: "new york",
-        img: "./img/newyork.jpg",
-        name: "Statue of Liberty tour",
+        city: "Villisca, Iowa",
+        img: "./img/Villisca.png",
+        name: "The Villisca Axe Murder House",
         info: 
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry." 
+        "On June 10, 1912, Josiah and Sarah Moore were bludgeoned to death inside of their home in Villisca, Iowa. Their four children—and two friends who were spending the night—were also killed, and to this day, the crime remains unsolved. Their home is considered one of the most haunted houses in the country, and guests are drawn to it. People even pay $400+ to stay for one night." 
     },
     {
         id: 2,
