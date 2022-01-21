@@ -35,12 +35,12 @@ export const tourData = [
     },
     {
         id: 5,
-        city: "Brooklyn Bridge",
-        img: "./img/bkbridge.jpg",
-        name: "Brooklyn Bridge",
+        city: "Hot Springs, Virginia",
+        img: "./img/OmniHomestead.jpg",
+        name: "Omni Homestead",
         info: 
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry." 
-    },
+        "Here lies a timeless story. In the oldest wing of one of the oldest resorts in the country (built in 1766), a jilted woman took her own life after her fiancé left her on their wedding day and never returned. Since that tragic day in the early 1900s she's wandered the 14th floor aimlessly, stopping guests and employees to ask for the time, hoping that she'll catch the hour when her groom-to-be is supposed to come back to her—and that this time around he'll be there." 
+   },
     {
         id: 6,
         city: "Yankee Stadium",
