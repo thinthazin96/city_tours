@@ -3,14 +3,18 @@ import "./App.scss";
 import Navbar from "./components/Navbar/Navbar";
 import TourList from "./components/TourList";
 import Landing from "./components/Landing/Landing";
+import Footer from "./components/header_footer/Footer";
+import About from "./components/About/About";
+
 
 class App extends Component {
   render() {
     return (
       <React.Fragment>
-        <Navbar/>
-        <Landing/>
-        <TourList />
+          <Navbar />
+          <About />
+          <TourList >
+          <Footer />
       </React.Fragment>
     );
   }

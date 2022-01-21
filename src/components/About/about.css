@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Luxurious+Roman&family=Poppins:wght@400;500;700&display=swap');
+
+
+/* About css design by Stephania Hoyos*/
+
+:root {
+  --red: #ff0000;
+  --white: #f2f2f2;
+  --black2: #0f0f16;
+  /* --black: #3c4245; */
+  /* --black:#45171d ; */
+   --black:rgba(14, 13, 13, 0.7) ;
+  
+}
+
+ body{
+  margin:0;
+  padding:0;
+  font-family: 'poppins', sans-serif;
+  background:linear-gradient(rgba(120, 110, 110, 0.7),
+  rgba(14, 13, 13, 0.7)),url('../../../public/img/haunted3.jpeg');
+  background-attachment: fixed;
+  background-size: cover;
+  
+ }
+.about{
+  width: 80%;
+  margin:0 auto;
+}
+ .about-info{
+  margin-top: 100px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  width: 44%;
+  height: 800px;
+  background-color:var(--black);
+  box-shadow: 0 4px 8px 0 rgba(11, 11, 11, 0.8);
+  float:left;  
+}
+
+.about-info h1{
+  font-size: 30px;
+  color: var(--white);
+  font-weight: 700;
+  line-height: 40px;
+  padding: 20px 0 0 20px;
+  text-transform: uppercase;
+} 
+
+.about-info h1 span{
+  color: var(--red);
+}
+
+.about-info p{
+  font-size: 15px;
+  color: var(--white);
+  font-weight: 400;
+  line-height: 2;
+  padding: 10px 40px 0 20px;
+}
+
+.about-info a{
+  font-size: 12px;
+  color: var(--white);
+  background: var(--red);
+  font-weight: 400;
+  line-height: 20px;
+  padding: 5px 15px;
+  margin-left: 20px;
+  border:1px solid var(--red);
+  text-decoration:none;
+}
+
+.about-info a:hover {
+  font-size: 12px;
+  color:var(--white);
+  background: none;
+  padding: 5px 15px;
+  border: 1px solid var(--red);
+  transition: .5s;
+  text-decoration:none;
+}
+
+.about-border{
+  margin-top: 100px;
+  width: 6%;
+  height: 800px;
+  background: #1b1b22;
+  float:left;
+  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 80%);
+}
+
+.about-border h1{
+  font-size: 20px;
+  color: var(--white);
+  transform: rotate(90deg);
+  line-height: 40px;
+  text-align: center;
+  min-width: max-content;
+  min-width:-moz-max-content;
+  min-width:-webkit-max-content;
+  padding-top: 140px;
+  letter-spacing: 2px;
+  margin-top: 25px;
+}
+
+.about-home-img{
+  width: 91px;
+  height: 138px;
+  margin-top: -7px;
+  margin-left: -5px;
+}
+
+.about-home-img img{
+  width: 70px; 
+  height: 90px;
+  margin: 20px 0 0 15px ;
+
+}
+
+.about-img{
+  margin-top: 100px;
+  width: 49%;
+  height: 100%;
+  float: left;
+  position: relative;
+}
+
+.about-img img{
+  width: 100%;
+  height: 800px;
+  display: block;
+  box-shadow: 0 4px 8px 0 rgb(0 0 0 / 80%);
+} 
+
+
