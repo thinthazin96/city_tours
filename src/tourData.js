@@ -34,6 +34,7 @@ export const tourData = [
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry." 
     },
     {
+        //Ankit Kafle
         id: 5,
         city: "Hot Springs, Virginia",
         img: "./img/OmniHomestead.jpg",
