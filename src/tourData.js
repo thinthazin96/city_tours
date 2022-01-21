@@ -89,12 +89,14 @@ export const tourData = [
         info: 
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry." 
     }, 
+    
+    // Chelsea
     {
         id: 12,
-        city: "Yankee Stadium",
-        img: "./img/yankeestadium.jpg",
-        name: "Yankee Stadium",
+        city: "Weston, West Virginia",
+        img: "./img/Eastern.jpg",
+        name: "The Trans-Allegheny Lunatic Asylum",
         info: 
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry." 
+        "The Trans-Allegheny Lunatic Asylum was designed to house 250 patients when it opened in 1864. Fast forward to the 1950s, when the facility reached its peak and had more than 2,400 patients living in overcrowded and inhumane conditions—with some even kept in cages. In 1994, the asylum closed, and today, there are reports of paranormal activity, with souls of patients lingering and roaming the halls." 
     },
 ];
