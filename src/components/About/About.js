@@ -3,6 +3,7 @@ import Fade from "react-reveal/Fade";
 import haunted_image1 from "../About/haunted1.jpeg";
 import haunted_image2 from "../About/haunted2.jpeg";
 
+
 //about section by stephania Hoyos npm 
  function About() {
     return (
@@ -21,7 +22,7 @@ import haunted_image2 from "../About/haunted2.jpeg";
                         in general are beyond our control. The mind goes to different places and all of a sudden the emotional center of the mind 
                         overtakes the rational center and that’s why people jump and get started much more easily, thus reinforcing how scary these houses are</p>
                         <br></br>
-                        <a href="#stories" target = "_blank">Read More..</a>
+                        {/* <a href="#tou">Read More..</a> */}
                         
                 </div>    
                     <div className='about-border'>
