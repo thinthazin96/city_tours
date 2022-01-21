@@ -42,13 +42,13 @@ export const tourData = [
         info: 
         "The former residence of a number of lighthouse keepers, this home has been featured on several ghost-hunting shows. There seems to be only one spirit here, named 'Ernie' —but he's got a very strong presence. He likes to turn televisions off and on, take sheets off beds, and generally cause a ruckus with knocking. If you prefer your haunts on dry land, make sure to visit Connecticut's ghost town." 
     },
-    {
+    {  //Ankit Kafle
         id: 6,
-        city: "Yankee Stadium",
-        img: "./img/.jpg",
-        name: "Yankee Stadium",
+        city: "Hot Springs, Virginia",
+        img: "./img/OmniHomestead.jpg",
+        name: "Omni Homestead",
         info: 
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry." 
+        "Here lies a timeless story. In the oldest wing of one of the oldest resorts in the country (built in 1766), a jilted woman took her own life after her fiancé left her on their wedding day and never returned. Since that tragic day in the early 1900s she's wandered the 14th floor aimlessly, stopping guests and employees to ask for the time, hoping that she'll catch the hour when her groom-to-be is supposed to come back to her—and that this time around he'll be there." 
     },
     {
         id: 7,
