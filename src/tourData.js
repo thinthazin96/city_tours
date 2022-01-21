@@ -76,18 +76,19 @@ export const tourData = [
         "Waverly Hills Sanatorium started off as a one-room schoolhouse in the late 1800s. The Board of Tuberculosis Hospital later purchased the land and built the sanatorium, which opened in 1910 as a small quarantine for tuberculosis patients. The large building that now sits abandoned was built in 1926 in response to the need for a larger facility; the sanatorium could house over 400 patients."
     },
     {
+        //Thin Thazin Commented
         id: 10,
-        city: "Yankee Stadium",
-        img: "./img/yankeestadium.jpg",
-        name: "Yankee Stadium",
+        city: "Fairfield County, Ohio",
+        img: "./img/mudhouse.jpeg",
+        name: "Mudhouse Mansion",
         info:
-        "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+        "The Mudhouse Mansion has a bad reputation. Nobody can seem to agree on when it was built, but it dates back sometime between the 1840s and 1900. Unlike the other abandoned mansions on this list, you sadly can no longer visit it, as the home was demolished in 2015 after not being occupied since the 1930s. The last resident (at least legally speaking) was Lulu Hartman-Mast, and the current owner of the property is her relative Jeanne Mast."
     },
     {
         //Thin Thazin commented
         id: 11,
         city: "Mansfield, Ohio",
-        img: "./img/Ohio.jpeg",
+        img: "./img/mudhouse.jpeg",
         name: "Ohio State Reformatory",
         info:
         "Opened in 1896, the Ohio State Reformatory is famous for its Gothic facade and ominous six-story cell block. But its greatest claim to fame is when it served as the filming location for The Shawshank Redemption, though the prison was shrouded in terror long before Red and Andy holed up there. The reformatory closed in 1990 due to overcrowding and inhumane conditions, but not before more than 200 people (including two guards) died in the building. Legend says that the ghosts of several former inmates still roam the halls, as well as an old guard who jabs people with his nightstick. There are various ways for visitors to experience the hauntings first-hand, from two-hour guided tours to private paranormal investigations."
