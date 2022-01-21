@@ -7,26 +7,24 @@ import Footer from "./components/header_footer/Footer";
 import About from "./components/About/About";
 import {
   BrowserRouter,
-  Route, 
-  Routes, 
+  Route,
+  Routes,
 } from "react-router-dom";
 import { Element } from 'react-scroll';
 
 
 class App extends Component {
   render() {
-
     return (
       <BrowserRouter>
-      <Routes>
-      <Route path="/" element ={<Navbar />}>
-      <Route path="Landing" element={<Landing />} />
-      <Route path="About" element={<About />} />
-      <Route path="TourList" element={<TourList />} />
-      </Route>
-</Routes>
-</BrowserRouter>
-
+        <Routes>
+          <Route path="/" element ={<Navbar />}>
+            <Route path="Landing" element={<Landing />} />
+            <Route path="About" element={<About />} />
+            <Route path="TourList" element={<TourList />} />
+          </Route>
+        </Routes>
+      </BrowserRouter>
     );
   }
 }
