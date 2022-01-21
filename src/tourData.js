@@ -48,4 +48,52 @@ export const tourData = [
         info: 
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry." 
     },
+    {
+        id: 7,
+        city: "Yankee Stadium",
+        img: "./img/yankeestadium.jpg",
+        name: "Yankee Stadium",
+        info: 
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry." 
+    },
+    {
+        id: 8,
+        city: "Yankee Stadium",
+        img: "./img/yankeestadium.jpg",
+        name: "Yankee Stadium",
+        info: 
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry." 
+    },
+    {
+        id: 9,
+        city: "Yankee Stadium",
+        img: "./img/yankeestadium.jpg",
+        name: "Yankee Stadium",
+        info: 
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry." 
+    },
+    {
+        id: 10,
+        city: "Yankee Stadium",
+        img: "./img/yankeestadium.jpg",
+        name: "Yankee Stadium",
+        info: 
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry." 
+    },
+    {
+        id: 11,
+        city: "Yankee Stadium",
+        img: "./img/yankeestadium.jpg",
+        name: "Yankee Stadium",
+        info: 
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry." 
+    }, 
+    {
+        id: 12,
+        city: "Yankee Stadium",
+        img: "./img/yankeestadium.jpg",
+        name: "Yankee Stadium",
+        info: 
+        "Lorem Ipsum is simply dummy text of the printing and typesetting industry." 
+    },
 ];
