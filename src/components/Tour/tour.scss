@@ -3,17 +3,19 @@
 .tour {
     // background: $mainGrey;
     margin: 2rem 0;
-    border-radius: 30px;
+    // Sumaia updated border radius
+    border-radius: 20px;
     // Thin added
-    background-color: #F47340;
-    
+    // Sumaia updated background color
+    //background-color: #F47340;
+    background-color: #242423;
+
 
     img {
         width: 100%;
         display: block;
         min-height: 13rem;
-        border-radius: 30px
-        ;
+        border-radius: 30px;
     }
 }
 // Thin added
@@ -40,7 +42,8 @@ body{
     display: block;
     top: 5%;
     right: 5%;
-    color: $mainGreen;
+    // ilan changed the close button color
+    color: $mainBlack;
     font-size: 2rem;
     cursor: pointer;
     transition: $mainTransition;
@@ -52,6 +55,8 @@ body{
 }
 
 .tour-info {
+    // sumaia added the color
+    color: #f47340;
     padding: 1rem .5rem;
     h3 {
         text-transform: capitalize;
@@ -60,7 +65,8 @@ body{
     h5 {
         text-transform: capitalize;
         span {
-            color: $mainGreen;
+            // ilan changed this color
+            color: $iconGrey;
             margin: .5rem;
             font-size: 1.2rem;
             cursor: pointer;

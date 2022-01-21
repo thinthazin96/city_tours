@@ -15,7 +15,9 @@ const Footer = () => {
                 <div className="row-footer">
                     {/* Column 1 */}
                     <div className="col1">
-                        <iframe width="350" height="250" src="vid.mp4"></iframe>
+                        <video width="350" height="250" controls>
+                            <source src="vid.mp4" type="video/mp4"></source>
+                        </video>
                         <p id="footer-p">This is a cute cat video to help you after reading all the scary locations in America. 
                             Enjoy the treat.</p>
                     </div>
