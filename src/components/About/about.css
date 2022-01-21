@@ -22,45 +22,18 @@
   background-attachment: fixed;
   background-size: cover;
   
-  /* box-sizing: border-box; */
-  /* font-family: 'poppins', sans-serif; */
  }
-  
-  /* width: 100%;
-  height: 80vh;
-  display: grid;
-  place-items: center;
-  background-image:url("../../resources/images/haunted4.jpeg");
-  background-attachment: fixed;
-  /* background-position: center;
-  background-size: cover;  */
-/* } */
-
 .about{
   width: 80%;
   margin:0 auto;
-  
-  
-  /* width: 100%;
-  height: 100%;
-  position: relative;
-  /* background:linear-gradient(rgba(0, 0, 0, 0.7),
-  rgba(0, 0, 0, 0.7)),url("../../resources/images/haunted4.jpeg"); */
 }
  .about-info{
   margin-top: 100px;
   overflow-x: hidden;
   overflow-y: auto;
   width: 44%;
-  height: 900px;
+  height: 800px;
   background-color:var(--black);
-  
-  
-
-  
-  /* background-color: #353839; */
-  /* background:linear-gradient(rgba(0, 0, 0, 0.7),
-  rgba(0, 0, 0, 0.7)),url("../../resources/images/haunted4.jpeg"); */
   box-shadow: 0 4px 8px 0 rgba(11, 11, 11, 0.8);
   float:left;  
 }
@@ -82,7 +55,6 @@
   font-size: 15px;
   color: var(--white);
   font-weight: 400;
-  
   line-height: 2;
   padding: 10px 40px 0 20px;
 }
@@ -112,7 +84,7 @@
 .about-border{
   margin-top: 100px;
   width: 6%;
-  height: 900px;
+  height: 800px;
   background: #1b1b22;
   float:left;
   box-shadow: 0 4px 8px 0 rgb(0 0 0 / 80%);
@@ -130,17 +102,6 @@
   padding-top: 140px;
   letter-spacing: 2px;
   margin-top: 25px;
- 
-  /* font-weight: 700;
-  line-height: 40px;
-  text-align: center;
-  min-width: max-content;
-  min-width:intrinsic;
-  min-width:-moz-max-content;
-  min-width:-webkit-max-content;
-  padding-top: 108px;
-  margin-top: 25px;
-  letter-spacing: 2px; */
 }
 
 .about-home-img{
@@ -167,7 +128,7 @@
 
 .about-img img{
   width: 100%;
-  height: 900px;
+  height: 800px;
   display: block;
   box-shadow: 0 4px 8px 0 rgb(0 0 0 / 80%);
 } 
