@@ -7,8 +7,6 @@
   --red: #ff0000;
   --white: #f2f2f2;
   --black2: #0f0f16;
-  /* --black: #3c4245; */
-  /* --black:#45171d ; */
    --black:rgba(14, 13, 13, 0.7) ;
   
 }
@@ -17,8 +15,6 @@
   margin:0;
   padding:0;
   font-family: 'poppins', sans-serif;
-  /* background:linear-gradient(rgba(120, 110, 110, 0.7), */
-  /* rgba(14, 13, 13, 0.7)),url('../../../public/img/haunted3.jpeg'); */
   background-attachment: fixed;
   background-size: cover;
   /* Thin added */
