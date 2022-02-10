@@ -35,6 +35,10 @@ You need the following two programs installed to use this project
   ```sh
   $ npm start
   ```
+3. If you encounter issue in running react app, run this command line and repeat step 2.
+```sh
+  $ npm install --legacy-peer-deps
+  ```
 Your web browser should automatically open to the default page of the project
 
 ## Built With
